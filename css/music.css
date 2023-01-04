@@ -1,0 +1,47 @@
+.main{
+	margin: 12px auto 0;
+	width: 1250px;
+	height: 700px;
+	background: #fff;
+}
+
+.main .directory{
+	width: 550px;
+	height: 300px;
+	margin: 0 30px;
+	float: left;
+}
+
+.main .directory .music{
+	width: 500px;
+	height: 90px;
+	/* margin: 10px auto; */
+}
+
+.main .directory .music h3{
+	width: 700px;
+	height: 30px;
+	text-align: center;
+	/* margin: 0 auto; */
+	margin-top: 40px;
+	
+}
+
+.main .directory .music audio{
+	width: 500px;
+	height: 50px;
+	text-align: center;
+	margin: 8px 0 0 100px;
+}
+
+.main .play{
+	/* width: 350px; */
+	width: 320px;
+	height: 700px;
+	float: left;
+}
+
+.main .play img{
+	width: 600px;
+	margin-top: 100px;
+}

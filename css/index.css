@@ -1,0 +1,84 @@
+.main{
+	width: 1250px;
+	height: 850px;
+	margin: 12px auto 0;
+	background: #ffffff;
+}
+
+.main .come{
+	width: 416px;
+	height: 300px;
+	float: left;
+}
+
+.main .come h2{
+	text-align: center;
+	margin: 8px 0;
+	/* display: inline-block; */
+	color: black;
+}
+
+.main .come p a img{
+	width: 390px;
+	/* height: 200px; */
+	margin: 0 8px;
+	display: inline-block;
+}
+
+.main .come .picture img{
+	width: 390px;
+	margin: 0 8px;
+	/* display: inline-block; */
+}
+
+.main .NHom{
+	width: 416px;
+	height: 300px;
+	float: left;
+}
+
+.main .NHom h2{
+	text-align: center;
+	margin: 8px 0;
+	/* display: inline-block; */
+	color: black;
+}
+
+.main .NHom p a img{
+	width: 390px;
+	/* height: 100%; */
+	margin: 0 8px;
+	display: inline-block;
+}
+
+.main .NHom .picture img{
+	width: 390px;
+	margin: 0 8px;
+	/* display: inline-block; */
+}
+
+.main .school{
+	width: 416px;
+	height: 300px;
+	float: left;
+}
+
+.main .school h2{
+	text-align: center;
+	margin: 8px 0;
+	/* display: inline-block; */
+	color: black;
+}
+
+.main .school p a img{
+	width: 390px;
+	/* height: 200px; */
+	margin: 0 8px;
+	display: inline-block;
+}
+
+.main .school .picture img{
+	width: 390px;
+	margin: 0 8px;
+	/* display: inline-block; */
+}

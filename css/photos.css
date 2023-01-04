@@ -1,0 +1,59 @@
+.main {
+	margin: 12px auto 0;
+	width: 1250px;
+	height: 760px;
+	background-color: #fff;
+}
+
+.main .school {
+	width: 1250px;
+	height: 100%;
+	/* background: #f6f6f5; */
+	/* margin: 50px auto 0; */
+}
+
+.main .school h2{
+	width: 1250px;
+	height: 30px;
+	text-align: center;
+	font-style: italic;
+	margin: 8px 0;
+	display: inline-block;
+}
+
+.main .school .content {
+	width: 1250px;
+	height: 600px;
+	/*background: red;*/
+	margin: 0 auto;
+}
+
+.main .school .content .bigView {
+	width: 1100px;
+	height: 690px;
+	float: left;
+	/* overflow: hidden; */
+	/* overflow: scroll; */
+	overflow: auto;
+}
+
+
+.main .school .content .bigView img {
+	width: 1050px;
+}
+
+
+.main .school .content .smallView {
+	width: 150px;
+	height: 690px;
+	float: right;
+	overflow: auto;
+}
+
+
+.main .school .content .smallView img {
+	width: 120px;
+	float: left;
+	margin-bottom: 4px;
+	border: 1px solid white;
+}
